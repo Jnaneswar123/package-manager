@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "Migration through Genesis",
+			"name": "Migration through Genesis12",
 			"request": {
 				"method": "GET",
 				"header": []
